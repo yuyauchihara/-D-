@@ -1,0 +1,3 @@
+木曜日までに１６時までにビルド結果を提出
+ビルドしてグーグルドライブにアップ
+https://github.com/yuyauchihara/-D-.git
