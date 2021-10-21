@@ -1,5 +1,9 @@
 {
   "dependencies": {
+<<<<<<< HEAD
+    "com.unity.cinemachine": "2.7.8",
+=======
+>>>>>>> cf9ac2bb08d9ef0e83bb810ff1d3e0dcd3a6799c
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ide.rider": "1.1.4",
     "com.unity.ide.vscode": "1.1.4",
